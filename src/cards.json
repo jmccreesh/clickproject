@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Patriots",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/120px-New_England_Patriots_logo.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Steelers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pittsburgh_Steelers_logo.svg/200px-Pittsburgh_Steelers_logo.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Raiders",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Oakland_Raiders_logo.svg/192px-Oakland_Raiders_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Broncos",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Denver_Broncos_logo.svg/344px-Denver_Broncos_logo.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Colts",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/193px-Indianapolis_Colts_logo.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Jets",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/New_York_Jets_logo.svg/190px-New_York_Jets_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "Ravens",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Baltimore_Ravens_logo.svg/193px-Baltimore_Ravens_logo.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Chiefs",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Kansas_City_Chiefs_logo.svg/158px-Kansas_City_Chiefs_logo.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "Bills",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Buffalo_Bills_logo.svg/189px-Buffalo_Bills_logo.svg.png"
+  },
+  {
+    "id": 10,
+    "name": "Texans",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Houston_Texans_logo.svg/191px-Houston_Texans_logo.svg.png"
+  },
+  {
+    "id": 11,
+    "name": "Bengals",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cincinnati_Bengals_logo.svg/379px-Cincinnati_Bengals_logo.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "Eagles",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Philadelphia_Eagles_logo.svg/191px-Philadelphia_Eagles_logo.svg.png"
+  },
+  {
+    "id": 13,
+    "name": "Packers",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Green_Bay_Packers_logo.svg/173px-Green_Bay_Packers_logo.svg.png"
+  },
+  {
+    "id": 14,
+    "name": "Seahawks",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Seattle_Seahawks_logo.svg/144px-Seattle_Seahawks_logo.svg.png"
+  },
+  {
+    "id": 15,
+    "name": "Cardinals",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Arizona_Cardinals_logo.svg/179px-Arizona_Cardinals_logo.svg.png"
+  },
+  {
+    "id": 16,
+    "name": "Falcons",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Atlanta_Falcons_logo.svg/192px-Atlanta_Falcons_logo.svg.png"
+  }  
+]
+
+
