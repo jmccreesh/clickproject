@@ -39,7 +39,7 @@ class App extends Component {
         this.setState({topScore: this.state.score + 1})
 
       } 
-      if (this.state.score === 11) {
+      if (this.state.score === 15) {
         this.setState({footerText: 'You Won! Play again?'})
         this.setState({score: 0, clickedCards: [], cards: cards})
         setTimeout(() => {
